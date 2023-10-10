@@ -1,4 +1,5 @@
 #Codsoft Projects Repository
+
 This GitHub repository contains the code and resources for three completed tasks undertaken as part of the Codsoft projects. Each task involves the development of machine learning models for different purposes. Below is an overview of each task and its respective code and resources:
 
 ## Task 1: Movie Genre Classification
@@ -21,6 +22,4 @@ Refer to the individual project directories for specific instructions on running
 
 Feel free to explore, experiment, and build upon these projects. If you have any questions or suggestions, please don't hesitate to reach out.
 
-Happy coding!
-
-— Your Name
+— Manav Malhotra
