@@ -1,4 +1,4 @@
-#Codsoft Projects Repository
+# Codsoft Projects Repository
 
 This GitHub repository contains the code and resources for three completed tasks undertaken as part of the Codsoft projects. Each task involves the development of machine learning models for different purposes. Below is an overview of each task and its respective code and resources:
 
